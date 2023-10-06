@@ -6,7 +6,7 @@ on:
 
 env: 
   IMAGE_NAME: latest
-  DOCKERHUB_REPOSITORY:saks03/buid-image
+  DOCKERHUB_REPOSITORY: saks03/buid-image
 jobs:
   build:
     runs-on: ubuntu-latest
